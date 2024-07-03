@@ -1,5 +1,5 @@
 # STS-UDCO
-This is the source code of the paper: "UAV-Empowered Dependency-Aware Computation Offloading in Device-Edge-Cloud Collaborative Computing: An Improved Actor-Critic DRL Approach". A brief introduction of this work is as follows:
+This is the source code of [the paper](https://doi.org/10.1016/j.sysarc.2024.103215): "UAV-Empowered Dependency-Aware Computation Offloading in Device-Edge-Cloud Collaborative Computing: An Improved Actor-Critic DRL Approach". A brief introduction of this work is as follows:
 > Unmanned aerial vehicle (UAV)-empowered mobile edge computing (MEC) has become a research hotspot, addressing challenges posed by the pressure of cloud computing and the limited service scope of MEC. 
 However, the constrained computing resources of UAVs and the data dependence on actual tasks hinder the implementation of efficient computational offloading (CO) in reality.
 > In this context, a device-edge-cloud collaborative computing model was first developed to provide complementary offloading services.
