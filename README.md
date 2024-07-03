@@ -26,3 +26,18 @@ We note that a shorter version of this paper was accepted at the IEEE ICPADS con
 
 ## Usage
 To start our project files: run `STS_UDCO.py`
+
+
+## Citation
+If this code package has contributed to your work, please cite the original paper. Thanks.
+```markdown
+@article{bib01-JSA2024-STSUDCO,
+	title={UAV-assisted dependency-aware computation offloading in device–edge–cloud collaborative computing based on improved actor–critic DRL},
+	author={Zhang, Longxin and Tan, Runti and Zhang, Yanfen and Peng, Jiwu and Liu, Jing and Li, Keqin},
+	journal={Journal of Systems Architecture},
+	volume={154},
+	page={103215},
+	year={2024},
+	publisher={Elsevier},
+        doi={10.1016/j.sysarc.2024.103215}
+}
