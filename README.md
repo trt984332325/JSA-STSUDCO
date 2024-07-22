@@ -19,7 +19,6 @@ We note that a shorter version of this paper was accepted at the IEEE ICPADS con
 
 ## File Structure
 * `STS_UDCO.py` # The STS_UDCO algorithm
-* `Environment.py` # The UAV-empowered D-E-C collaborative computing environment model
 * `Observation_Normal.py` # The observation normalization mechanism
 * `DAG_Builder.py` # The builder and Parser of DAG Graph
 * `Usernum_record.py` # The user count recorder
